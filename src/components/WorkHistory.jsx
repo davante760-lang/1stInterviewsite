@@ -5,6 +5,7 @@ const companies = [
   {
     name: 'Samsara',
     logo: '/logo-samsara.png',
+    invertLogo: true,
     role: 'Senior Account Executive, Enterprise',
     stats: [
       { label: 'Quota', value: '$1.5M' },
@@ -68,7 +69,8 @@ export default function WorkHistory() {
                   <img
                     src={company.logo}
                     alt={company.name}
-                    className="h-8 max-w-[140px] object-contain"
+                    className={`h-8 max-w-[140px] object-contain${company.invertLogo ? ' invert brightness-0 invert' : ''}`}
+                    style={company.invertLogo ? { filter: 'brightness(0) invert(1)' } : undefined}
                   />
                 </div>
 
@@ -77,10 +79,10 @@ export default function WorkHistory() {
                   {company.role}
                 </h3>
 
-                {/* Stats grid */}
-                <div className="grid grid-cols-2 gap-3 mb-4">
+                {/* Stats */}
+                <div className="space-y-3 mb-4">
                   {company.stats.map((stat) => (
-                    <div key={stat.label} className={stat.value.length > 15 ? 'col-span-2' : ''}>
+                    <div key={stat.label}>
                       <div className="text-[10px] uppercase tracking-[0.15em] text-text-tertiary mb-1">
                         {stat.label}
                       </div>
