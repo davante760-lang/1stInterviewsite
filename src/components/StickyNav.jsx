@@ -1,13 +1,13 @@
 import { useEffect, useState } from 'react'
 
 const sections = [
+  { id: 'experience', short: 'Exp', full: 'Experience' },
   { id: 'numbers', short: '#', full: 'Numbers' },
   { id: 'why-outmarket', short: 'Why', full: 'Why Outmarket' },
   { id: 'process', short: 'Process', full: 'Process' },
   { id: 'working-with-me', short: 'Working', full: 'Working With Me' },
   { id: 'deal-story', short: 'Deal', full: 'Deal Story' },
   { id: 'lessons', short: 'Lessons', full: 'Lessons' },
-  { id: 'experience', short: 'Exp', full: 'Experience' },
   { id: 'about', short: 'About', full: 'About' },
   { id: 'resume', short: 'Resume', full: 'Resume' },
 ]

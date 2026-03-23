@@ -17,6 +17,8 @@ export default function App() {
     <>
       <StickyNav />
       <Hero />
+      <WorkHistory />
+      <SectionDivider />
       <NumbersBar />
       <SectionDivider />
       <WhyOutmarket />
@@ -28,8 +30,6 @@ export default function App() {
       <DealStory />
       <SectionDivider />
       <WhatIveLearned />
-      <SectionDivider />
-      <WorkHistory />
       <SectionDivider />
       <AboutDave />
       <SectionDivider />

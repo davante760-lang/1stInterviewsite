@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 const companies = [
   {
     name: 'Samsara',
-    logo: '/samsara-logo.svg',
+    logo: '/logo-samsara.png',
     role: 'Senior Account Executive, Enterprise',
     stats: [
       { label: 'Quota', value: '$1.5M' },
@@ -15,7 +15,7 @@ const companies = [
   },
   {
     name: 'Applied Systems',
-    logo: '/applied-logo.svg',
+    logo: '/logo-applied.png',
     role: 'Account Executive, Mid-Market',
     stats: [
       { label: 'Quota', value: '$800K' },
@@ -26,7 +26,7 @@ const companies = [
   },
   {
     name: 'EZLynx',
-    logo: '/ezlynx-logo.svg',
+    logo: '/logo-ezlynx.png',
     role: 'Account Executive, SMB',
     stats: [
       { label: 'Quota', value: '$350K' },
@@ -64,11 +64,11 @@ export default function WorkHistory() {
                 transition={{ type: 'spring', stiffness: 300, damping: 20 }}
               >
                 {/* Logo */}
-                <div className="h-8 mb-4 flex items-center">
+                <div className="h-10 mb-4 flex items-center">
                   <img
                     src={company.logo}
                     alt={company.name}
-                    className="h-6 object-contain opacity-70"
+                    className="h-8 max-w-[140px] object-contain"
                   />
                 </div>
 
