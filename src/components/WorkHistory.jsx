@@ -8,21 +8,21 @@ const companies = [
     invertLogo: true,
     role: 'Senior Account Executive, Enterprise',
     takeaway:
-      'Built pipeline in a saturated market by reframing conversations around operational risk and P&L impact rather than product features.',
+      '118% avg quota attainment across FY24 & FY25 against $1.5M. $6–7M in qualified pipeline annually, ~55% self-sourced. Two-time President\u2019s Club, fewer than 12 reps to qualify across the Enterprise org.',
   },
   {
     name: 'Applied Systems',
     logo: '/logo-applied.png',
     role: 'Account Executive, Mid-Market',
     takeaway:
-      'Led legacy-replacement motions where the primary friction was change management. Specialized in unseating entrenched, stable incumbents.',
+      '105% against an $800K quota, Top 3 on a team of 8 in a year where ~50% of the team hit number. Closed 18 net-new AMS replacement deals on 3.5\u00d7 pipeline coverage.',
   },
   {
     name: 'EZLynx',
     logo: '/logo-ezlynx.png',
-    role: 'Account Executive, SMB',
+    role: 'Account Executive, SMB → BDR',
     takeaway:
-      'Established the foundation of trigger-based prospecting and outbound discipline within the insurance distribution chain.',
+      'Closed the largest full-suite AMS replacement on the SMB team that year. As BDR: $400K+ qualified pipeline in a single quarter and a ~25% lift in connect-to-meeting conversion.',
   },
 ]
 
