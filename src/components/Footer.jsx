@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="py-8 border-t border-border text-center">
       <p className="text-text-tertiary text-sm">
-        <span>Carlsbad, CA</span>
+        <span>Carlsbad, CA · North Richland Hills, TX</span>
         {' · '}
         <a
           href="https://linkedin.com/in/davealexander760"
