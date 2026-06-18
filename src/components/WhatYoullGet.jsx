@@ -7,8 +7,8 @@ const cards = [
     body: `I don't wait for inbound. I build my own territory.`,
   },
   {
-    title: 'Buyer Fluency',
-    body: 'Deep understanding of how brokers, MGAs, and carriers evaluate technology.',
+    title: 'Legacy Market Fluency',
+    body: 'Six years selling AI and modern SaaS into industries built on slow adoption cycles, where the buyer\u2019s default is to wait and change management is the real product.',
   },
   {
     title: 'Executive Alignment',
