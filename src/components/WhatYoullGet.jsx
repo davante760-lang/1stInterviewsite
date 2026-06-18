@@ -8,7 +8,7 @@ const cards = [
   },
   {
     title: 'Legacy Market Fluency',
-    body: 'Six years selling AI and modern SaaS into industries built on slow adoption cycles, where the buyer\u2019s default is to wait and change management is the real product.',
+    body: 'Six years selling AI and modern SaaS into slow-adoption industries. Closing here means more than a demo: it\u2019s working through change-management hesitation, demonstrating ROI against the customer\u2019s own past performance, and running structured POCs that get trials converted to customers.',
   },
   {
     title: 'Executive Alignment',
