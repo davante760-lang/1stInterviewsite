@@ -3,20 +3,20 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 
 const cards = [
   {
-    title: 'Pipeline Creation',
-    body: `I don't wait for inbound. I build my own territory.`,
+    title: 'Self-Sourced Pipeline',
+    body: 'I don\u2019t wait for inbound. ~55% of my pipeline is self-sourced through targeted outbound. Top 5 regionally in pipeline generation at Samsara.',
   },
   {
-    title: 'Legacy Market Fluency',
-    body: 'Six years selling AI and modern SaaS into slow-adoption industries. Closing here means more than a demo: it\u2019s working through change-management hesitation, demonstrating ROI against the customer\u2019s own past performance, and running structured POCs that get trials converted to customers.',
+    title: 'Mid-Market Buyer Fluency',
+    body: 'Deep understanding of how operationally heavy mid-market buyers evaluate technology. CFOs, Controllers, AR Managers, Ops VPs, and the operational signers who run the day-to-day. Industries running on manual workflows, fragmented data, and working-capital risk.',
   },
   {
     title: 'Executive Alignment',
-    body: 'The ability to move beyond technical champions to reach the economic buyer.',
+    body: 'The ability to move beyond technical champions to reach the economic buyer and build the business case that holds up at the leadership level.',
   },
   {
-    title: 'Qualification Discipline',
-    body: 'A clean CRM and an honest forecast based on hard-stop discovery.',
+    title: 'Forecast Discipline',
+    body: 'A clean CRM and an honest forecast based on MEDDPICC. No happy ears. The deals I commit are deals that close.',
   },
 ]
 

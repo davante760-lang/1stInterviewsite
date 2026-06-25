@@ -3,15 +3,19 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 const items = [
   {
     title: 'Trigger-Based Prospecting',
-    body: 'I tier territories into 15–20 priority accounts based on active signals: M&A, leadership shifts, or compliance audits. I lead with the business change, not a product pitch.',
+    body: 'I tier a mid-market book of 150\u2013250 accounts down to a focused weekly call block driven by active signals: new CFO or Controller hires, AR system renewals, audit findings, M&A, working-capital pressure, vertical-specific operational events. I lead with the business change, not a product pitch. ~55% of pipeline self-sourced.',
   },
   {
-    title: 'Multi-Threaded Alignment',
-    body: 'I run simultaneous top-down (C-Suite) and bottom-up (Operational Staff) threads. One champion is a single point of failure; I build committees around a shared business case.',
+    title: 'Finance-Led Multi-Threading',
+    body: 'I run simultaneous top-down (CFO, Controller) and bottom-up (AR Manager, Ops VP) threads. One champion is a single point of failure. I build committees around a shared business case anchored in DSO, AR labor cost, payment fees, and working capital impact — the language the CFO is already using internally.',
   },
   {
-    title: 'Hard-Stop Qualification',
-    body: 'I prioritize "no" over "maybe." I surface contract buyouts, legal blockers, and budget authority early to ensure resources are only deployed against deals with a real path to action.',
+    title: 'MEDDPICC Discipline',
+    body: 'I prioritize "no" over "maybe." Hard-stop qualification on metrics, economic buyer, decision criteria, paper process, identified pain, and the competition. Contract buyouts and legal blockers surface early. Resources only go against deals with a real path to close.',
+  },
+  {
+    title: 'Vertical Playbooks',
+    body: 'At Samsara I built net-new vertical playbooks that lifted my average deal size from $95K to $130K+ through multi-product attach and executive-aligned business cases. I don\u2019t run a horizontal pitch into a vertical buyer.',
   },
 ]
 

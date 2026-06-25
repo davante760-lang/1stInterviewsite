@@ -23,7 +23,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="block text-[11px] uppercase tracking-[0.2em] font-medium text-accent mb-6"
         >
-          Commercial Operator | Enterprise Sales
+          Mid-Market AE · Legacy Replacement · Finance &amp; Ops Buyers
         </motion.span>
 
         <ElectricText text="Dave Alexander" className="flex justify-center mb-6" />
@@ -34,10 +34,11 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.8 }}
           className="text-text-secondary text-[14.5px] leading-[1.75] max-w-[620px] mx-auto"
         >
-          Commercial operator for complex, legacy-heavy markets. Six years across insurtech and
-          operational SaaS. Specialized in consultative, multi-stakeholder deals where the real
-          sale is change management, executive alignment, and a business case that holds up at the
-          leadership level. Two-time President's Club.
+          Mid-market AE with 8+ years selling into operationally heavy, finance-led buying
+          committees. Currently at Samsara. Two-time President's Club, 118% avg attainment against
+          a $900K quota, $130K+ average ACV. Specialized in legacy-replacement motions where the
+          real sale is reframing the cost of "the way we've always done it" (manual AR, paper
+          credit, fragmented payments, last-quarter scorecards) into a CFO-grade business case.
         </motion.p>
       </div>
 

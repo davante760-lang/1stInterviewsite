@@ -3,16 +3,20 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 
 const cards = [
   {
-    title: 'Former Agency Owner',
-    body: 'Built and sold an independent insurance agency. I speak the language of my customers because I have sat in their chair and managed their P&L.',
+    title: 'Sat in the Buyer\u2019s Chair',
+    body: 'Built and sold an independent insurance agency. I\u2019ve run the AR, chased the receivables, managed the cash flow, and felt the working-capital squeeze that comes with manual collections. I speak the language of finance-led mid-market buyers because I\u2019ve lived their P&L.',
   },
   {
     title: 'AI Practitioner',
-    body: 'Active early-adopter of LLM and AI tools. I build my own workflows to automate prospecting research and territory mapping, providing a technical edge in speed-to-lead.',
+    body: 'Active early-adopter of LLM and agentic AI tools. I build my own workflows to automate prospecting research, account scoring, and pre-discovery briefs. Translates into a measurable edge in speed-to-lead and discovery depth.',
   },
   {
-    title: 'Stage Fit',
-    body: 'I work best where the category is still being defined, the sales motion is not yet institutionalized, and leadership values commercial judgment over raw activity volume.',
+    title: 'Two-Time President\u2019s Club',
+    body: 'FY24 and FY25 at Samsara. Top 10% of the Mid-Market sales org both years. Consistent over-attainment against a $900K quota in a year where most of the team came in under number.',
+  },
+  {
+    title: 'Commercial Judgment',
+    body: 'I work best where the vertical motion is still being built and leadership values commercial judgment over raw activity volume. I want to help shape how the org sells in a vertical, not just execute someone else\u2019s script.',
   },
 ]
 

@@ -36,9 +36,10 @@ export default function AboutDave() {
           <div className="space-y-5 text-[14.5px] leading-[1.75] text-text-secondary">
             <FadeIn delay={0.15}>
               <p>
-                Based in North Richland Hills, TX. I've spent 6 years in enterprise SaaS: insurance
-                tech, then fleet safety and IoT at Samsara. Somewhere in the middle of that, built
-                and sold an independent insurance agency on the side.
+                Based in North Richland Hills, TX. 8+ years in B2B SaaS. Started in insurance
+                technology at EZLynx and Applied Systems, then moved to fleet IoT at Samsara, where
+                I'm currently a Mid-Market AE and two-time President's Club winner. Somewhere in
+                the middle of that, built and sold an independent insurance agency on the side.
               </p>
             </FadeIn>
             <FadeIn delay={0.2}>
