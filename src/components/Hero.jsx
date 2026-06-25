@@ -37,7 +37,7 @@ export default function Hero() {
           Mid-market AE with 8+ years in B2B SaaS, currently at Samsara selling into
           operationally heavy verticals — food &amp; beverage distribution, wholesale, fleet,
           field services. Two-time President's Club, 118% avg attainment against a $900K quota,
-          $130K+ average ACV. I run legacy-replacement motions where the real sale is reframing
+          $95K average ACV. I run legacy-replacement motions where the real sale is reframing
           the cost of "the way we've always done it" — manual workflows, fragmented data, systems
           that technically still work — into a business case the operator and the CFO both sign off on.
         </motion.p>
