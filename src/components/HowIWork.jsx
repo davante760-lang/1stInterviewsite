@@ -3,11 +3,11 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 const items = [
   {
     title: 'Trigger-Based Prospecting',
-    body: 'I tier a mid-market book of 150\u2013250 accounts down to a focused weekly call block driven by active signals: new CFO or Controller hires, AR system renewals, audit findings, M&A, working-capital pressure, vertical-specific operational events. I lead with the business change, not a product pitch. ~55% of pipeline self-sourced.',
+    body: 'I tier a mid-market book of 150\u2013250 accounts down to a focused weekly call block driven by active signals: new Ops/Fleet/Safety leadership hires, recent incidents or insurance events, fleet or facility expansions, M&A, regulatory or compliance events, vertical-specific operational triggers. I lead with the business change, not a product pitch. ~55% of pipeline self-sourced.',
   },
   {
-    title: 'Finance-Led Multi-Threading',
-    body: 'I run simultaneous top-down (CFO, Controller) and bottom-up (AR Manager, Ops VP) threads. One champion is a single point of failure. I build committees around a shared business case anchored in DSO, AR labor cost, payment fees, and working capital impact — the language the CFO is already using internally.',
+    title: 'Multi-Stakeholder Threading',
+    body: 'I run simultaneous top-down (CFO, GM) and bottom-up (Ops VP, Fleet/Operations Manager, Safety Director) threads. One champion is a single point of failure. I build committees around a shared business case anchored in operational pain the operator already feels and a dollar impact the CFO can sign off on.',
   },
   {
     title: 'MEDDPICC Discipline',

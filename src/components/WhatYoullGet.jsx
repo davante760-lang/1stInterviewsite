@@ -8,7 +8,7 @@ const cards = [
   },
   {
     title: 'Mid-Market Buyer Fluency',
-    body: 'Deep understanding of how operationally heavy mid-market buyers evaluate technology. CFOs, Controllers, AR Managers, Ops VPs, and the operational signers who run the day-to-day. Industries running on manual workflows, fragmented data, and working-capital risk.',
+    body: 'Deep understanding of how operationally heavy mid-market buyers evaluate technology. Ops VPs, Fleet and Operations Managers, Safety Directors, and the GM or CFO who signs off. Industries running on manual workflows, fragmented data, and legacy systems that "technically still work."',
   },
   {
     title: 'Executive Alignment',

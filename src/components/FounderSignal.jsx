@@ -4,7 +4,7 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 const cards = [
   {
     title: 'Sat in the Buyer\u2019s Chair',
-    body: 'Built and sold an independent insurance agency. I\u2019ve run the AR, chased the receivables, managed the cash flow, and felt the working-capital squeeze that comes with manual collections. I speak the language of finance-led mid-market buyers because I\u2019ve lived their P&L.',
+    body: 'Built and sold an independent insurance agency on the side. Ran a small P&L, chased premium payments, made hiring and software decisions on my own dime. I know what it feels like to be the operator deciding whether a new platform is worth the switch \u2014 not just the rep pitching it.',
   },
   {
     title: 'AI Practitioner',

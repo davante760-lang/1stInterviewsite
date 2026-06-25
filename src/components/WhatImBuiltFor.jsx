@@ -4,15 +4,15 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 const cards = [
   {
     title: 'The Legacy Replacement Motion',
-    body: 'The CFO-grade reframe. Helping buyers rethink the cost of staying with manual workflows, paper credit, fragmented payment ingestion, and legacy systems that still "technically work." I close on the cost of inaction, not the cost of switching.',
+    body: 'Helping buyers rethink the cost of staying with manual workflows, fragmented data, and legacy systems that "technically still work." I close on the cost of inaction, not the cost of switching.',
   },
   {
-    title: 'Finance &amp; Ops Committees',
-    body: 'Multi-stakeholder mid-market deals at $100K\u2013$300K+ ACV with 4\u20136 month cycles. CFO, Controller, AR or Ops VP, and the operational signer who runs the day-to-day. Real buying committees, not transactional sales.',
+    title: 'Operations-Led Buying Committees',
+    body: 'Multi-stakeholder mid-market deals at $100K\u2013$300K+ ACV with 4\u20136 month cycles. Ops VP, Fleet or Operations Manager, Safety Director, and the GM or CFO who signs off. Real buying committees, not transactional sales.',
   },
   {
     title: 'Operationally Heavy Verticals',
-    body: 'Wholesale distribution, food &amp; beverage, fleet, insurance, field services. Industries running on manual workflows, fragmented data, and operational or working-capital risk a CFO can quantify in dollars.',
+    body: 'Food &amp; beverage distribution, wholesale, fleet, field services, insurance. The physical economy. Industries I\u2019ve actually closed in at Samsara, running on manual workflows, fragmented data, and operational risk a CFO can quantify in dollars.',
   },
   {
     title: 'Playbook-Builder Culture',
