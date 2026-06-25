@@ -8,7 +8,7 @@ const companies = [
     invertLogo: true,
     role: 'Account Executive, Mid-Market (Feb 2023\u2013Present)',
     takeaway:
-      '118% avg attainment against a $900K quota across FY24 and FY25. $95K average ACV, driven by multi-product attach and executive-aligned business cases. $4\u20135M in qualified pipeline annually, ~55% self-sourced. $250K competitive displacement. Two-time President\u2019s Club, top 10% of the Mid-Market sales org.',
+      '118% avg attainment against a $900K quota across FY24 and FY25. Lifted avg deal size from $95K to $130K+ through multi-product attach and executive-aligned business cases. $4\u20135M in qualified pipeline annually, ~55% self-sourced. $250K competitive displacement. Two-time President\u2019s Club, top 10% of the Mid-Market sales org.',
   },
   {
     name: 'Applied Systems',

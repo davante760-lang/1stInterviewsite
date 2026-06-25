@@ -15,7 +15,7 @@ const items = [
   },
   {
     title: 'Vertical Playbooks',
-    body: 'At Samsara I built net-new vertical playbooks anchored in multi-product attach and executive-aligned business cases, landing a $95K average ACV. I don\u2019t run a horizontal pitch into a vertical buyer.',
+    body: 'At Samsara I built net-new vertical playbooks that lifted my average deal size from $95K to $130K+ through multi-product attach and executive-aligned business cases. I don\u2019t run a horizontal pitch into a vertical buyer.',
   },
 ]
 
