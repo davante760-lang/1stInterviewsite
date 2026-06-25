@@ -8,7 +8,7 @@ const cards = [
   },
   {
     title: 'Operations-Led Buying Committees',
-    body: 'Multi-stakeholder mid-market deals at $100K\u2013$300K+ ACV with 4\u20136 month cycles. Ops VP, Fleet or Operations Manager, Safety Director, and the GM or CFO who signs off. Real buying committees, not transactional sales.',
+    body: 'Multi-stakeholder mid-market deals at $100K\u2013$250K+ ACV with 4\u20136 month cycles. Ops VP, Fleet or Operations Manager, Safety Director, and the GM or CFO who signs off. Real buying committees, not transactional sales.',
   },
   {
     title: 'Operationally Heavy Verticals',
